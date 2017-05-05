@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "baseUrl": "./src",
+        "charset": "utf-8",
+        "alwaysStrict": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "jsx": "react",
+        "target": "es2015",
+        "outDir": "./dist",
+        "module": "es2015",
+        "pretty": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
